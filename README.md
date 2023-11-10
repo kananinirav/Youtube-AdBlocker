@@ -34,10 +34,10 @@ This repository contains a Chrome Extension designed to block irritating ads on 
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YouTube_AdBlocker/YouTube_AdBlocker&type=Date)](https://star-history.com/#YouTube_AdBlocker/YouTube_AdBlocker&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Youtube-AdBlocker/Youtube-AdBlocker&type=Date)](https://star-history.com/#Youtube-AdBlocker/Youtube-AdBlocker&Date)
 
 ## Contributors
 
 Please Feel free to contribute by submitting a Pull Request!
 
-[![](https://contrib.rocks/image?repo=kananinirav/YouTube_AdBlocker)](https://github.com/kananinirav/YouTube_AdBlocker/graphs/contributors)
+[![](https://contrib.rocks/image?repo=kananinirav/Youtube-AdBlocker)](https://github.com/kananinirav/Youtube-AdBlocker/graphs/contributors)
