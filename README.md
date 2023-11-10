@@ -4,21 +4,19 @@ This repository contains a Chrome Extension designed to block irritating ads on 
 
 ## Manual Installation Steps for the Extension
 
-1. [YouTube AdBlocker](https://github.com/kananinirav/YouTube_AdBlocker)
+1. [Download Youtube AdBlocker Latest Release zip](https://github.com/kananinirav/Youtube-AdBlocker/archive/refs/tags/v0.1.0.zip) or clone this repository.
 
-2. Download these extension files or clone this repository.
+2. If the downloaded file is a ZIP archive, extract its contents to a folder using a tool like WinRAR or 7-Zip.
 
-3. If the downloaded file is a ZIP archive, extract its contents to a folder using a tool like WinRAR or 7-Zip.
+3. Type `chrome://extensions/` in the address bar of Chrome and press Enter.
 
-4. Type `chrome://extensions/` in the address bar of Chrome and press Enter.
+4. Enable Developer mode: Toggle the `Developer mode` switch at the top right of the Extensions page.
 
-5. Enable Developer mode: Toggle the `Developer mode` switch at the top right of the Extensions page.
+5. Load the extension: Click on the `Load unpacked` button and select the folder where you extracted the extension files or drag the folder.
 
-6. Load the extension: Click on the `Load unpacked` button and select the folder where you extracted the extension files or drag the folder.
+6. Confirm installation: Confirm that the extension is now listed on the Extensions page and is enabled.
 
-7. Confirm installation: Confirm that the extension is now listed on the Extensions page and is enabled.
-
-8. Check functionality on YouTube: Open YouTube in a new tab and verify whether the extension is working as expected.
+7. Check functionality on YouTube: Open YouTube in a new tab and verify whether the extension is working as expected.
 
 **If you find this helpful, please give a star to this repository and share it with your friends. Your support is greatly appreciated!**
 
