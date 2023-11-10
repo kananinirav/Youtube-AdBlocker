@@ -1,0 +1,30 @@
+{
+    "manifest_version": 3,
+    "name": "YouTube AdBlocker",
+    "version": "1.0",
+    "description": "Removes Ads on YouTube",
+    "permissions": [
+      "activeTab"
+    ],
+    "action": {
+      "default_icon": "icon.png",
+      "default_popup": "index.html",
+      "js": ["index.js"]
+    },
+    "icons":
+    {
+        "128": "icon.png",
+        "16": "icon.png",
+        "48": "icon.png"
+    },
+    "content_scripts": [
+      {
+        "matches": [
+            "*://youtube.com/*",
+            "*://www.youtube.com/*",
+            "*://m.youtube.com/*"
+        ],
+        "js": ["content.js"]
+      }
+    ]
+  }
