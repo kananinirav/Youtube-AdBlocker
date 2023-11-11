@@ -8,13 +8,12 @@ This repository contains an extension designed to block irritating ads on YouTub
     - [Microsoft Edge](#microsoft-edge)
     - [Mozilla Firefox](#mozilla-firefox)
   - [To-Do List](#to-do-list)
-    - [If you find this extension useful, consider supporting the project by using the "Buy me a Coffee" link below](#if-you-find-this-extension-useful-consider-supporting-the-project-by-using-the-buy-me-a-coffee-link-below)
   - [Star History](#star-history)
   - [Contributors](#contributors)
 
 ## Installation Steps
 
-- [Download Youtube AdBlocker Latest Release zip](https://github.com/kananinirav/Youtube-AdBlocker/archive/refs/tags/v0.1.0.zip) or clone this repository.
+- [Download Youtube AdBlocker Latest Release zip](https://github.com/kananinirav/Youtube-AdBlocker/archive/refs/tags/v2.0.0.zip) or clone this repository.
 - If the downloaded file is a ZIP archive, extract its contents to a folder using a tool like WinRAR or 7-Zip.
 
 ### Chrome
@@ -59,13 +58,7 @@ I've confirmed the installation steps provided above and the extension works sea
 
 ## To-Do List
 
-- Implement a toggle button feature for enabling or disabling the extension.
-
-### If you find this extension useful, consider supporting the project by using the "Buy me a Coffee" link below
-
-![gif](https://media.giphy.com/media/gTURHJs4e2Ies/giphy.gif)
-
-<a href="https://www.buymeacoffee.com/kananinirav" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+Implement a toggle button feature for enabling or disabling the extension.
 
 ## Star History
 
@@ -76,3 +69,9 @@ I've confirmed the installation steps provided above and the extension works sea
 Please Feel free to contribute by submitting a Pull Request!
 
 [![](https://contrib.rocks/image?repo=kananinirav/Youtube-AdBlocker)](https://github.com/kananinirav/Youtube-AdBlocker/graphs/contributors)
+
+**If you find this extension useful, consider supporting the project by using the "Buy me a Coffee" link below**
+
+![gif](https://media.giphy.com/media/gTURHJs4e2Ies/giphy.gif)
+
+<a href="https://www.buymeacoffee.com/kananinirav" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
