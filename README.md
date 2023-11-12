@@ -40,15 +40,15 @@ Turn on Developer mode.
   - Select "Add-ons" from the menu.
 - Enable Developer Mode:
   - In the Add-ons Manager, click on the gear icon (settings) in the top right corner.
-  - Choose "Debug Add-ons."
-  - Turn on the "Enable add-on debugging" and "Enable extension debugging" options.
+  - Choose `Debug Add-ons.`
+  - Turn on the `Enable add-on debugging` and `Enable extension debugging` options.
 - Load the Extension:
-  - Click on "Load Temporary Add-on" or "Load Add-on From File," depending on your Firefox version.
-  - Navigate to the folder where the extension files are located and select the extension's manifest.json file
+  - Click on `Load Temporary Add-on` or `Load Add-on From File,` depending on your Firefox version.
+  - Navigate to the folder where the extension files are located and select the extension's `manifest.json` file
 - Manage Extension Settings:
   - In the Add-ons Manager, click on the three horizontal dots next to the extension you installed.
-Choose "Manage"
-  - Under "Permissions," enable (`*://youtube.com, *://www.youtube.com, *://m.youtube.com`) toggle button
+Choose `Manage`
+  - Under `Permissions`, enable (`*://youtube.com, *://www.youtube.com, *://m.youtube.com`) toggle button
 - Confirm Installation: Confirm that the extension is listed on the Add-ons Manager page and is enabled.
 - Open a new tab and check whether the extension is working as expected.
 
@@ -62,7 +62,7 @@ Implement a toggle button feature for enabling or disabling the extension.
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Youtube-AdBlocker/Youtube-AdBlocker&type=Date)](https://star-history.com/#Youtube-AdBlocker/Youtube-AdBlocker&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=kananinirav/Youtube-AdBlocker&type=Date)](https://star-history.com/#kananinirav/Youtube-AdBlocker&Date)
 
 ## Contributors
 
