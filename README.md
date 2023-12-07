@@ -35,6 +35,10 @@ Turn on Developer mode.
 
 ### Mozilla Firefox
 
+- Direct Install from store: <https://addons.mozilla.org/en-GB/firefox/addon/youtube-adblocker-free/>
+
+--------------------------------------- Or ---------------------------------------
+
 - Access the Add-ons (Extensions) Manager:
   - Click on the three horizontal lines in the upper-right corner to open the menu.
   - Select "Add-ons" from the menu.
