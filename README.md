@@ -13,7 +13,7 @@ This repository contains an extension designed to block irritating ads on YouTub
 
 ## Installation Steps
 
-- [Download Youtube AdBlocker Latest Release zip](https://github.com/kananinirav/Youtube-AdBlocker/archive/refs/tags/v2.0.0.zip) or clone this repository.
+- [Download Youtube AdBlocker Latest Release zip](https://github.com/kananinirav/Youtube-AdBlocker/archive/refs/tags/v3.0.0.zip) or clone this repository.
 - If the downloaded file is a ZIP archive, extract its contents to a folder using a tool like WinRAR or 7-Zip.
 
 ### Chrome
