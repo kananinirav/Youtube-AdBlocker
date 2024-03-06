@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "YouTube AdBlocker",
-    "version": "1.0",
+    "version": "2.0",
     "description": "Removes Ads on YouTube",
     "permissions": [
       "activeTab"
@@ -26,5 +26,10 @@
         ],
         "js": ["content.js"]
       }
-    ]
+    ],
+    "browser_specific_settings": {
+      "gecko": {
+        "id": "kananinirav0@hotmail.com"
+      }
+    }
   }
